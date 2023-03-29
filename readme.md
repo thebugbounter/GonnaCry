@@ -8,5 +8,7 @@ This tool is only for testing and academic purposes and can only be used where s
 
 #Python#Ransomware#Malware
 
-Owner
+<h1> Owners </h1>
 JASPREET - https://github.com/thebugbounter
+ESHA VERMA - https://github.com/eshaverma16
+SARABMEET - https://github.com/SarabmeetMasson
