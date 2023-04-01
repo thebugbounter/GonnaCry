@@ -29,8 +29,19 @@ To encrypt the contents of the "data.txt" file, follow these steps:
 2. Navigate to the repository directory using the command line.
 3. Ensure that you have the necessary permissions by running the following command:
 `chmod +x voldemort.py`
-Encrypt the contents of "data.txt" by running the following command:
+4. Encrypt the contents of "data.txt" by running the following command:
 `./voldemort.py`
+
+Decryption
+To decrypt the data, follow these steps:
+
+1. Navigate to the repository directory using the command line.
+2. Ensure that you have the necessary permissions by running the following command:
+`chmod +x decrypt.py`
+3. Decrypt the data by running the following command:
+`./decrypt.py`
+You will be prompted to enter a secret key, which is "Lucifer". <br>
+Once you have entered the secret key, the data will be successfully decrypted.
 
 
 <h2> Owners </h2>
