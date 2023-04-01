@@ -9,7 +9,7 @@ This tool is only for testing and academic purposes and can only be used where s
 #Python#Ransomware#Malware
 
 <h2> Working </h2>
-To encrypt the contents of the "data.txt" file, we can utilize the "voldemort.py" script by executing it with the command 
+To encrypt the contents of the "data.txt" file, we can utilize the "voldemort.py" script by executing it with the command <br>
 `./voldemort.py`
 Before running the script, we need to ensure that we have the necessary permissions by using the command
 `chmod +x voldemort.py`.
