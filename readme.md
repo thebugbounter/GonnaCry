@@ -12,7 +12,7 @@ This tool is only for testing and academic purposes and can only be used where s
 To encrypt the contents of the "data.txt" file, we can utilize the "voldemort.py" script by executing it with the command <br>
 `./voldemort.py`
 Before running the script, we need to ensure that we have the necessary permissions by using the command
-`chmod +x voldemort.py`.
+`chmod +x voldemort.py`<br>
 
 Upon execution of the script, the contents of "data.txt" will be encrypted. To decrypt the data, we can use the "decrypt.py" script by executing it with the command `./decrypt.py`
 This will prompt us to provide a secret key, which is "Lucifer".
