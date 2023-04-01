@@ -19,6 +19,20 @@ This will prompt us to provide a secret key, which is "Lucifer".
 Once we have entered the secret key, the data will be successfully decrypted.
 
 
+
+
+Encryption/Decryption Instructions
+Encryption
+To encrypt the contents of the "data.txt" file, follow these steps:
+
+1. Clone this repository to your local machine.
+2. Navigate to the repository directory using the command line.
+3. Ensure that you have the necessary permissions by running the following command:
+`chmod +x voldemort.py`
+Encrypt the contents of "data.txt" by running the following command:
+`./voldemort.py`
+
+
 <h2> Owners </h2>
 JASPREET - https://github.com/thebugbounter <br>
 ESHA VERMA - https://github.com/eshaverma16 <br>
