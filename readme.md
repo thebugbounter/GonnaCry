@@ -14,7 +14,7 @@ This tool is only for testing and academic purposes and can only be used where s
 <h4>Encryption</h4>
 To encrypt the contents of the "data.txt" file, follow these steps:
 
-1. Clone this repository to your local machine.
+1. Clone this repository to your local machine using following command `git clone https://github.com/thebugbounter/GonnaCry.git`
 2. Navigate to the repository directory using the command line.
 3. Ensure that you have the necessary permissions by running the following command:
 `chmod +x voldemort.py`
