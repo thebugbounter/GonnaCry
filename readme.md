@@ -1,5 +1,5 @@
 <h1> GonnaCry- Ransomware </h1>
-Ransomware is a type of malware from cryptovirology that threatens to publish the victim's personal data or permanently block access to it unless a ransom is paid off. While some simple ransomware may lock the system without damaging any files, more advanced malware uses a technique called cryptoviral extortion.
+Ransomware is a type of malicious software designed to block access to a computer system or data until a ransom is paid. Ransomware typically operates by encrypting the victim's files and then demanding payment, often in the form of cryptocurrency, in exchange for a decryption key. 
 
 Created with
 Python 3.7 - https://www.python.org/
