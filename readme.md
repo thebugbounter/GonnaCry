@@ -12,8 +12,3 @@ This tool is only for testing and academic purposes and can only be used where s
 JASPREET - https://github.com/thebugbounter <br>
 ESHA VERMA - https://github.com/eshaverma16 <br>
 SARABMEET - https://github.com/SarabmeetMasson
-<table>
-  <tr align="center">
-    <td><a href="https://github.com/eshaverma16"></a></td>
-  </tr>
-</table>
